@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Loonario/robofriends_hooks_redux_pwa.git/static/css/main.65fbbf86.css",
-    "main.js": "/Loonario/robofriends_hooks_redux_pwa.git/static/js/main.5795ec3e.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Loonario/robofriends_hooks_redux_pwa.git/static/js/787.28cb0dcd.chunk.js",
-    "service-worker.js": "/Loonario/robofriends_hooks_redux_pwa.git/service-worker.js",
-    "static/media/SEGA.woff": "/Loonario/robofriends_hooks_redux_pwa.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/Loonario/robofriends_hooks_redux_pwa.git/index.html",
-    "main.65fbbf86.css.map": "/Loonario/robofriends_hooks_redux_pwa.git/static/css/main.65fbbf86.css.map",
-    "main.5795ec3e.js.map": "/Loonario/robofriends_hooks_redux_pwa.git/static/js/main.5795ec3e.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Loonario/robofriends_hooks_redux_pwa.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Loonario/robofriends_hooks_redux_pwa/static/css/main.beb453ec.css",
+    "main.js": "/Loonario/robofriends_hooks_redux_pwa/static/js/main.2bc0f191.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Loonario/robofriends_hooks_redux_pwa/static/js/787.28cb0dcd.chunk.js",
+    "service-worker.js": "/Loonario/robofriends_hooks_redux_pwa/service-worker.js",
+    "static/media/SEGA.woff": "/Loonario/robofriends_hooks_redux_pwa/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Loonario/robofriends_hooks_redux_pwa/index.html",
+    "main.beb453ec.css.map": "/Loonario/robofriends_hooks_redux_pwa/static/css/main.beb453ec.css.map",
+    "main.2bc0f191.js.map": "/Loonario/robofriends_hooks_redux_pwa/static/js/main.2bc0f191.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Loonario/robofriends_hooks_redux_pwa/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65fbbf86.css",
-    "static/js/main.5795ec3e.js"
+    "static/css/main.beb453ec.css",
+    "static/js/main.2bc0f191.js"
   ]
 }
