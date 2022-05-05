@@ -1,4 +1,6 @@
 import React from 'react';
+
+
 import '../robots';
 
 const Card = (props) => {
@@ -16,4 +18,4 @@ const Card = (props) => {
     );
 }
 
-export default Card;
+export default React.memo(Card);
